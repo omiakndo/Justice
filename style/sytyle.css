@@ -1,0 +1,50 @@
+.js-header-img {
+    background-image: url('../images/banner.png');
+    background-size: cover;
+    background-position: center;
+}
+.js-header-input{
+
+}
+
+.ju-primary-colour {
+    background-color: #B68C5A;
+}
+
+.js-slider {
+    width: 1170px;
+    height: 500px;
+    border-radius: 8px;
+
+}
+
+.js-contactus-colour {
+    background: var(--Dark-07, #F3F3F3);
+    border-radius: 8px;
+}
+
+.js-footer-colour {
+    background: var(--Dark-01, #111);
+}
+
+.js-footer-input {
+    width: 80%;
+    height: 62px;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.js-input-fotter-button {
+    width: 20%;
+    height: 62px;
+    border-radius: 8px;
+    background-color: #B68C5A;
+}
+
+@media screen and max-width: (768px) {
+
+    .js-acordind {
+        width: 100%;
+    }
+ 
+}
